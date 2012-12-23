@@ -1,0 +1,6 @@
+The Wall Street Journal says that Google's not quite content to be just a name printed on certain Android phones,
+    and has set some of the cellphone engineers from Google-owned Motorola Mobility to work on high-end project
+    known internally as the 'X phone.' The rumored phone, says the article, "is due out sometime next year," 
+    and is meant as a technology flagship for Android phones, incorporating more innovative features than typical phones,
+    such as advanced gesture recognition. Some of those features, like a flexible screen,
+    have reportedly already been dropped from the design, though. If the X Phone materializes, a tablet is expected to follow.
